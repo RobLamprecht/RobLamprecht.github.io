@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://roblamprecht.github.io/sitemap.xml
