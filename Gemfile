@@ -7,6 +7,3 @@ group :jekyll_plugins do
     gem 'jekyll-sitemap'
     gem 'jemoji'
 end
-group :other_plugins do
-    gem 'httparty'
-end
